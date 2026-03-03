@@ -1,0 +1,14 @@
+langchain
+langgraph
+langsmith
+dotenv
+langchain-community
+langchain-core
+langchain-groq
+chromadb
+langchain-huggingface
+pypdf
+pymupdf
+bs4
+beautifulsoup4
+pandas
