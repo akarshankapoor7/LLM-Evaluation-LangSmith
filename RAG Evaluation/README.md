@@ -1,9 +1,9 @@
-Install dependencies:
+1. Install dependencies:
 
-Configure Environment Variables:
-Create a .env file and add your API keys:
+2. Configure Environment Variables:
+-  Create a .env file and add your API keys: ( GROQ/OPEN AI, LANGSMITH )
 
-🧪 Running the Evaluation
+3. 🧪 Running the Evaluation
 The core logic is contained in RAG_evaluation.ipynb. The workflow follows these steps:
 
 - Dataset Creation: Loading a set of domain-specific questions and ground-truth answers.
